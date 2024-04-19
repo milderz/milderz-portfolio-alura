@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <StyledFooter>
       <div className="content">
-        <img src="public/logo-black.svg" width="31" height="27" alt="" />
+        <img src="logo-black.svg" width="31" height="27" alt="" />
         <ul className="social-links">
           <li>
             <a href="https://github.com/milderz/">

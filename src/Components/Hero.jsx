@@ -37,7 +37,7 @@ const Hero = () => {
         </div>
 
         <div className="profile-img">
-          <img src="public/profile.png" width="320" alt="profile-avatar" />
+          <img src="/profile.png" width="320" alt="profile-avatar" />
         </div>
       </StyledHero>
     </InView>

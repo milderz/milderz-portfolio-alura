@@ -83,7 +83,7 @@ const Header = ({ prevBtnActive }) => {
           </>
         )}
 
-        <img src="/public/logo.svg" width="31" height="27" alt="" />
+        <img src="/logo.svg" width="31" height="27" alt="" />
         <ul className="social-links">
           <li>
             <a href="https://github.com/milderz/">
